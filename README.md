@@ -18,6 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Nmap-4F7FBF?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-MaxPhisher-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DBeaver-382923?&style=for-the-badge&logo=DBeaver&logoColor=white" />
 </div>
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" 
